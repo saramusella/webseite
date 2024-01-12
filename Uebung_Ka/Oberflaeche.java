@@ -2,10 +2,10 @@ package Uebung_Ka;
 
 import javax.swing.JFrame;
 
-class Oberflaeche extends JFrame{
+class Oberflaeche extends JFrame {
 
     Steuerung dieSteuerung;
-}
+
 public void zeigeEreignis(double Flaeche) {
 
 }   
@@ -29,9 +29,7 @@ public void zeigeEreignis(double Flaeche) {
  } 
 
  public double gibParC() {
-
- } 
-
-public int Oberflaeche (Steuerung) {
-
-} 
+   
+    }
+   
+ 
